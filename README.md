@@ -7,7 +7,7 @@
 [Link to the application] (https://trivia-board-application.herokuapp.com/)
 
 
-## Table of content
+## Table of Contents
 
 - [Installation](#installation)
   - [Node](#Node)
