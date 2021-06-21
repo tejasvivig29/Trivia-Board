@@ -44,4 +44,6 @@ React would start serving at `http://localhost:3000/`
 - [React](https://reactjs.org/docs/getting-started.html) - Lightweight framework used for building Afford.ly
 - [npm](https://docs.npmjs.com) - Node Package Manager
 - [React-bootstrap](https://react-bootstrap.github.io/getting-started/introduction) - Adding bootstrap elements to react
+- [Heroku](https://heroku.com) - Cloud platform for deployment
+- [React Buildpack](https://github.com/mars/create-react-app-buildpack) - Buildpack used for automating deployment with the help of built-in bundler and served it up via Nginx
 
