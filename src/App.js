@@ -1,9 +1,9 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import DisplayQuestionCards from "./DisplayQuestionCards";
+import DisplayQuestionCards from "./Components/DisplayQuestionCards";
 import { questions } from "./Data/data";
-import Header from "./Header";
-import QuestionModal from "./QuestionModal";
+import Header from "./Header/Header";
+import QuestionModal from "./Components/QuestionModal";
 import { useState } from "react";
 
 function getRandom(arr) {
