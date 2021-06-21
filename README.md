@@ -1,9 +1,10 @@
 # **Trivia-Board**
 
-Trivia-Board is a single page online quiz web application built on React.Js using one of the most important features of React, React Hooks.
+[Triva-Board](https://trivia-board-application.herokuapp.com/) is a single page online quiz web application built on React.Js using one of the most important features of React, React Hooks.
 
 ## Welcome to Trivia Board
 
+[Link to the application] (https://trivia-board-application.herokuapp.com/)
 
 
 ## Table of content
